@@ -13,6 +13,8 @@ Assume we have a user account at /home/username
             ├── source
             ├── static
             └── virtualenv
+            
+source contains the Git repository. e.g. django_template
 
 ## virtualenv
 
